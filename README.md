@@ -1,2 +1,4 @@
-# Rasp_lineTracing-MazeEscape-Project
-Line Tracing &amp; Maze Escape using Raspberry pi
+# Line Tracing And Maze Escape Project using RaspberryPI
+---
+Programming Language : Python <br>
+Develop Environment : Ubuntu
